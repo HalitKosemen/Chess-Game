@@ -6,3 +6,6 @@ Chess Game Algorithm With Simple Commands May Have Some Optimization Problems An
 ![image alt](https://github.com/HalitKosemen/Chess-Game/blob/514a7c8f04e580d8e8f71bca14f50b6f3fef4d55/Cheess-Game/chess2.JPG)
 
 
+The game continues according to the moves you play in this way. If you want to see a longer gameplay video, you can watch it from this link.
+
+
