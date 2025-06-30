@@ -1,5 +1,6 @@
 # Chess-Game
 Chess Game Algorithm With Simple Commands May Have Some Optimization Problems And Bugs.
+Video Link : https://www.youtube.com/watch?v=eFn1rihxkUw
 
 
 ![image alt](https://github.com/HalitKosemen/Chess-Game/blob/e21ebe3a5d63bc8d2b746afef80857249d8662ff/Cheess-Game/chess1.JPG)
@@ -7,5 +8,7 @@ Chess Game Algorithm With Simple Commands May Have Some Optimization Problems An
 
 
 The game continues according to the moves you play in this way. If you want to see a longer gameplay video, you can watch it from this link.
+
+
 
 
